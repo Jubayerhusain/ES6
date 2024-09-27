@@ -12,3 +12,6 @@
 const name = ['Rifat', 'Sifat', 'Jihad', 'Junaed'];
 const firstIndex = name.map(n => n[0]);
 console.log(firstIndex);
+
+
+// map return the value 
